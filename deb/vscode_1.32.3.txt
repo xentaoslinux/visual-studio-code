@@ -1,0 +1,2 @@
+https://update.code.visualstudio.com/1.32.3/linux-deb-x64/stable
+https://update.code.visualstudio.com/1.32.3/linux-deb-ia32/stable
